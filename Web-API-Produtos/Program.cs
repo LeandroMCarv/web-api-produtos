@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Scalar.AspNetCore;
+using Web_API_Produtos.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +12,7 @@ builder.Services.AddOpenApi();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 {//usando sql server. Entrando dentro do appsettings. Pegou a connection string
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefautlConnection");
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
 var app = builder.Build();
@@ -18,6 +20,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.MapScalarApiReference();
     app.MapOpenApi();
 }
 

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web-API-Produtos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|c:\\users\\tiringa\\source\\repos\\web-api-produtos\\web-api-produtos\\web-api-produtos\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|solutionrelative:web-api-produtos\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web-API-Produtos\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|c:\\users\\tiringa\\source\\repos\\web-api-produtos\\web-api-produtos\\web-api-produtos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|solutionrelative:web-api-produtos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Models\\ProdutoModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web-API-Produtos\\Models\\ProdutoModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|c:\\users\\tiringa\\source\\repos\\web-api-produtos\\web-api-produtos\\web-api-produtos\\web-api-produtos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|solutionrelative:web-api-produtos\\web-api-produtos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|c:\\users\\tiringa\\source\\repos\\web-api-produtos\\web-api-produtos\\web-api-produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|solutionrelative:web-api-produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|c:\\users\\tiringa\\source\\repos\\web-api-produtos\\web-api-produtos\\web-api-produtos\\web-api-produtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|solutionrelative:web-api-produtos\\web-api-produtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|c:\\users\\tiringa\\source\\repos\\web-api-produtos\\web-api-produtos\\web-api-produtos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F2974D9-C543-23FA-4E3D-AD3ED94154FA}|Web-API-Produtos\\Web-API-Produtos.csproj|solutionrelative:web-api-produtos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +39,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\appsettings.json",
-              "RelativeDocumentMoniker": "Web-API-Produtos\\appsettings.json",
-              "ToolTip": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\appsettings.json",
-              "RelativeToolTip": "Web-API-Produtos\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Web-API-Produtos\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Web-API-Produtos\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:25:20.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web-API-Produtos\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web-API-Produtos\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T12:09:21.022Z",
+              "WhenOpened": "2025-10-22T01:15:31.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProdutoModel.cs",
-              "DocumentMoniker": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Models\\ProdutoModel.cs",
-              "RelativeDocumentMoniker": "Web-API-Produtos\\Models\\ProdutoModel.cs",
-              "ToolTip": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Models\\ProdutoModel.cs",
-              "RelativeToolTip": "Web-API-Produtos\\Models\\ProdutoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T11:59:24.111Z"
+              "Title": "Web-API-Produtos",
+              "DocumentMoniker": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Web-API-Produtos.csproj",
+              "RelativeDocumentMoniker": "Web-API-Produtos\\Web-API-Produtos.csproj",
+              "ToolTip": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Web-API-Produtos.csproj",
+              "RelativeToolTip": "Web-API-Produtos\\Web-API-Produtos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T01:15:26.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Web-API-Produtos\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Web-API-Produtos\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Web-API-Produtos",
+              "DocumentMoniker": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Web-API-Produtos.csproj",
+              "RelativeDocumentMoniker": "Web-API-Produtos\\Web-API-Produtos.csproj",
+              "ToolTip": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Web-API-Produtos.csproj",
+              "RelativeToolTip": "Web-API-Produtos\\Web-API-Produtos.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T00:44:42.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Program.cs",
+              "RelativeDocumentMoniker": "Web-API-Produtos\\Program.cs",
+              "ToolTip": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\Program.cs",
+              "RelativeToolTip": "Web-API-Produtos\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T11:50:38.218Z",
+              "WhenOpened": "2025-10-21T20:51:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Web-API-Produtos\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Tiringa\\source\\repos\\Web-Api-Produtos\\web-api-produtos\\Web-API-Produtos\\appsettings.Development.json",
+              "RelativeToolTip": "Web-API-Produtos\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T20:59:10.249Z",
               "EditorCaption": ""
             }
           ]
