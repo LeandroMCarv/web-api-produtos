@@ -1,10 +1,10 @@
-# 🛍️ Web API Produtos
+#🛍️ Web API Produtos
 
 API RESTful desenvolvida em **ASP.NET Core** para gerenciamento de produtos, com foco na prática de **CRUD**, rotas REST, integração com banco de dados e uso do **Entity Framework Core**.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##🚀 Tecnologias Utilizadas
 
 - ASP.NET Core Web API  
 - Entity Framework Core  
@@ -14,7 +14,7 @@ API RESTful desenvolvida em **ASP.NET Core** para gerenciamento de produtos, com
 
 ---
 
-## 📌 Sobre o Projeto
+##📌 Sobre o Projeto
 
 A **Web API Produtos** permite realizar operações completas de gerenciamento de produtos, incluindo:
 
@@ -28,7 +28,7 @@ A API segue o padrão **REST**, utilizando corretamente os verbos HTTP e rotas b
 
 ---
 
-## 🗂️ Estrutura do Projeto
+##🗂️ Estrutura do Projeto
 
 ```
 Web-API-Produtos/
@@ -58,7 +58,7 @@ Web-API-Produtos/
 
 ---
 
-## 📦 Modelo de Dados - Produto
+##📦 Modelo de Dados - Produto
 
 A entidade `ProdutoModel` representa um produto no sistema.
 
@@ -71,28 +71,28 @@ A entidade `ProdutoModel` representa um produto no sistema.
 
 ---
 
-## 🔗 Endpoints da API
+##🔗 Endpoints da API
 
 Base URL (local):
 ```
 https://localhost:{porta}/api/produto
 ```
 
-### 📋 Listar todos os produtos
+###📋 Listar todos os produtos
 ```
 GET /api/produto
 ```
 
 ---
 
-### 🔍 Buscar produto por ID
+###🔍 Buscar produto por ID
 ```
 GET /api/produto/{id}
 ```
 
 ---
 
-### ➕ Cadastrar produto
+###➕ Cadastrar produto
 ```
 POST /api/produto
 ```
@@ -110,7 +110,7 @@ Exemplo de body (JSON):
 
 ---
 
-### ✏️ Editar produto
+###✏️ Editar produto
 ```
 PUT /api/produto/{id}
 ```
@@ -128,14 +128,14 @@ Exemplo de body (JSON):
 
 ---
 
-### 🗑️ Deletar produto
+##🗑️ Deletar produto
 ```
 DELETE /api/produto/{id}
 ```
 
 ---
 
-## 🛠️ Como Executar o Projeto
+##🛠️ Como Executar o Projeto
 
 1. Clone o repositório:
 ```bash
@@ -163,12 +163,12 @@ Web-API-Produtos.http
 
 ---
 
-## 📄 Licença
+##📄 Licença
 
 Projeto desenvolvido para **fins educacionais**.
 
 ---
 
-## 👨‍💻 Autor
+##👨‍💻 Autor
 
 [@LeandroMCarv](https://github.com/LeandroMCarv)
